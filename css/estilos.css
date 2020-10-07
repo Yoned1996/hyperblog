@@ -13,3 +13,7 @@ body{
     border: solid 2px black;
     padding: 1em;
 }
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
