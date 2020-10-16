@@ -5,3 +5,5 @@ Jhon Marín tienen 24 años y nacio en Colombia.
 Hoy habalremos de mi historia.
 
 Cambiando historia desde github 15 oct
+
+Git y Github pull y push
