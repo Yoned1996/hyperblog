@@ -29,3 +29,11 @@ p{
     font-size: 40px;
     font-weight: bold;
 }
+
+footer{
+    width: 100%;
+    background-color:black ;
+    color: white;
+    text-align: center;
+    padding:.5em;
+}
